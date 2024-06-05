@@ -1,4 +1,3 @@
-Voici le README mis à jour, incluant les nouvelles orientations et définitions du contexte :
 
 # Got-Match
 # Application de Rencontre Professionnelle Innovante
